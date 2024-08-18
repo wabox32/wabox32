@@ -30,7 +30,7 @@ I'm a Full Stack Developer from Colombia with extensive experience in PHP and Py
         <img src="https://github-readme-stats.vercel.app/api?username=wabox32&show_icons=true&theme=radical" alt="wabox32 GitHub stats" />
     </div>
     <div style="flex: 1; padding-left: 10px;">
-    Prueba
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" alt="language programing">
     </div>
 </div>
 
