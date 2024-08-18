@@ -25,5 +25,5 @@ I'm a Full Stack Developer from Colombia with extensive experience in PHP and Py
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
+![wabox32 GitHub stats](https://github-readme-stats.vercel.app/api?username=wabox32&show_icons=true&theme=radical)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wabox32&include_all_commits=true&count_private=true&theme=transparent&show_icons=true&line_height=20&title_color=00897b&icon_color=00897b&text_color=00897b" alt="my Github Stats"/>
