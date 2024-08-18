@@ -5,6 +5,9 @@ I'm a Full Stack Developer from Colombia with extensive experience in PHP and Py
 🚀 I enjoy collaborating on challenging projects that make a real impact, driving innovation and efficiency in every development.  
 📫 I'm open to new opportunities and collaborations, so feel free to reach out if you have a project in mind!
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-bachiller-ortiz-832593254/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/wabox3245/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@wabox32)
 ## 💻 Tech Stack
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
