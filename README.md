@@ -27,7 +27,7 @@ I'm a Full Stack Developer from Colombia with extensive experience in PHP and Py
 ## 📊 GitHub Stats
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; padding-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=wabox32&show_icons=true&theme=transparent" alt="wabox32 GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=wabox32&show_icons=true&theme=transparent&title_color=F6DA5E&icon_color=346FA0&text_color=212121" alt="wabox32 GitHub stats" />
     </div>
     <div style="flex: 1; padding-left: 10px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" alt="language programing">
