@@ -29,5 +29,5 @@ I'm a Full Stack Developer from Colombia with extensive experience in PHP and Py
 
 ## 📊 GitHub Stats
 ![wabox GitHub stats](https://github-readme-stats.vercel.app/api?username=wabox32&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&title_color=2F80ED&icon_color=F6DA5E&text_color=212121)
-![wabox GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wabox32&hide_progress=true&count_private=true&include_all_commits=true)
+![wabox GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wabox32&hide_progress=true)
 
