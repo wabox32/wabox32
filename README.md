@@ -28,6 +28,6 @@ I'm a Full Stack Developer from Colombia with extensive experience in PHP and Py
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📊 GitHub Stats
-![wabox GitHub stats](https://github-readme-stats.vercel.app/api?username=wabox32&show_icons=true&theme=transparent&title_color=2F80ED&icon_color=F6DA5E&text_color=212121)
-![wabox GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![wabox GitHub stats](https://github-readme-stats.vercel.app/api?username=wabox32&show_icons=true&theme=transparent&title_color=2F80ED&icon_color=F6DA5E&text_color=212121&count_private=true)
+![wabox GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&count_private=true)
 
