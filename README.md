@@ -24,6 +24,13 @@ I'm a Full Stack Developer from Colombia with extensive experience in PHP and Py
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
-![wabox32 GitHub stats](https://github-readme-stats.vercel.app/api?username=wabox32&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1; padding-right: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=wabox32&show_icons=true&theme=radical" alt="wabox32 GitHub stats" />
+    </div>
+    <div style="flex: 1; padding-left: 10px;">
+    Prueba
+    </div>
+</div>
 
