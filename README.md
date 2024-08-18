@@ -28,6 +28,6 @@ I'm a Full Stack Developer from Colombia with extensive experience in PHP and Py
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📊 GitHub Stats
-![wabox GitHub stats](https://github-readme-stats.vercel.app/api?username=wabox32&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&title_color=2F80ED&icon_color=F6DA5E&text_color=212121)
-![wabox GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wabox32&hide_progress=true)
+![wabox GitHub stats](https://github-readme-stats.vercel.app/api?username=wabox32&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&title_color=00A389&ring_color=A100A3&icon_color=00A389&text_color=616161&custom_title=Andres%20Ortiz%20GitHub%20Stats)
+![wabox GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wabox32&hide_progress=true&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&title_color=00A389&ring_color=A100A3&icon_color=00A389&text_color=61616)
 
